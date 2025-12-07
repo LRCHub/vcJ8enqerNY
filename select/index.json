@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "本日の正体",
+  "base_artist": "NEE",
+  "createdAt": "2025-12-07T02:40:38.283847Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "本日の正体 - NEE",
+      "artist": "NEE",
+      "has_synced": true,
+      "path": "select/01_本日の正体_-_NEE_NEE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "本日の正体 - Honjitsu no Shotai",
+      "artist": "NEE",
+      "has_synced": true,
+      "path": "select/02_本日の正体_-_Honjitsu_no_Shotai_NEE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "本日の正体",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_本日の正体_NEE.txt"
+    }
+  ]
+}
